@@ -13,8 +13,10 @@ We evaluate the results based on how multiple requests from users are pooled suc
 ## How To Run
 ###
 <ol>
-<li>1.To run this Jupyter project, Please open the code.ipynb in jupyter notrebook and run it to generate the results</li>
-<li>2.The dependencies that need to be installed are: </li> 
-    +pymysql
-    +haversine
+<li>To run this Jupyter project, Please open the code.ipynb in jupyter notrebook and run it to generate the results</li>
+<li>The dependencies that need to be installed are: </li> 
+<ul>
+<li>pymysql</li>
+<li> haversine</li>
+</ul>
 </ol>
