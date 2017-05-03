@@ -27,7 +27,7 @@ We evaluate the results based on how multiple requests from users are pooled suc
 ###
 
 ![Img1](https://github.com/Tejusbharadwaj/RideShare/tree/master/Images/img1.png)
-![Img1](https://github.com/Tejusbharadwaj/RideShare/tree/master/Images/img2.png)
+![img2](https://raw.githubusercontent.com/Tejusbharadwaj/RideShare/master/Images/img2.png)
 ![Img1](https://github.com/Tejusbharadwaj/RideShare/tree/master/Images/img3.png)
 
 
