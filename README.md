@@ -7,3 +7,8 @@ In this CS 581 course project work, we device a ride sharing algorithm for New Y
 
 We evaluate the results based on how multiple requests from users are pooled successfully.The report describes the dataset used for the project and explains how the data was broken into simpler subset for the purpose of experiment. The algorithm divides the data into three different time-period namely - peak hours, normal hours and non-peak hours to consider various factors. We provide an estimate on how the algorithm would evaluate the routes in real time, using the algorithm derived from historical data. 
 
+
+Markup :  - - - -
+
+## How To Run
+
