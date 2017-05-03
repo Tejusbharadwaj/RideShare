@@ -25,9 +25,9 @@ We evaluate the results based on how multiple requests from users are pooled suc
 
 ## Few Results
 ###
-
-![Img1](https://github.com/Tejusbharadwaj/RideShare/tree/master/Images/img1.png)
-![img2](https://raw.githubusercontent.com/Tejusbharadwaj/RideShare/master/Images/img2.png)
-![Img1](https://github.com/Tejusbharadwaj/RideShare/tree/master/Images/img3.png)
-
+<ol>
+<li>![img1](https://raw.githubusercontent.com/Tejusbharadwaj/RideShare/master/Images/img1.png)</li>
+<li>![img2](https://raw.githubusercontent.com/Tejusbharadwaj/RideShare/master/Images/img2.png)</li>
+<li>![img3](https://raw.githubusercontent.com/Tejusbharadwaj/RideShare/master/Images/img3.png)</li>
+</ol>
 
