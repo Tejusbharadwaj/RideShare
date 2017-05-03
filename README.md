@@ -1,16 +1,7 @@
 # RideShare
 CS 581 Project on Ride Sharing using New York City taxi data. 
 
-##Project By:
-Aishwarya Jagdeesh
-
-Malvika Vijaya Kumar
-
-Vishal Sharma
-
-Tejus Bharadwaj
-
-
+This Project was developed in collaboration with Vishal Sharma, Aishwarya Jagdeesh and Malvika Vijaya Kumar.
 
 Ride sharing is a service that helps taxi users to pool their single shared ride between fixed starting point and different destinations. In today’s world, we see lot of congestion in the road network due to vehicular traffic. The traffic congestion increases the average commutation time to all passengers and indirectly the cost to travel. We believe Ride sharing can provide a way to tackle this problem by pooling people going to similar destinations from a fixed starting point such as Airport, Metro Station, and Office etc. and in turn reduce the number of vehicles on road. The ride-sharing algorithm estimates dual benefits i.e. low rates for the taxi users’ and increased fuel efficiency for the driver without compromising on the overall profit.
 
