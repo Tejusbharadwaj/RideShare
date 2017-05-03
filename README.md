@@ -12,3 +12,6 @@ We evaluate the results based on how multiple requests from users are pooled suc
 
 ## How To Run
 
+To run this Jupyter project, Please open the code.ipynb in jupyter notrebook and run it to generate the results.
+The dependencies that need to be installed are: 
+
